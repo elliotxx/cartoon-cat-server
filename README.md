@@ -17,6 +17,7 @@ node main.js
 
 ## 生成漫画目录
 1. 进入指定漫画目录中（./public/store/漫画名），运行以下命令
+
 linux
 ```
 ls -t -r > index
